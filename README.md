@@ -14,6 +14,10 @@ Il y aura aussi une troisième image, qui elle sera calibrée en fonction de deu
 constantes définies dans le script. Son nom sera le même que l'image mère mais
 avec .calibrated avant l'extension.
 
+# Fichier de log
+Pour chaques étapes réussies, dans output.log se rajoute une ligne pour témoigner.
+
+
 ## Dépendance
 * scrot
 * imagemagick
